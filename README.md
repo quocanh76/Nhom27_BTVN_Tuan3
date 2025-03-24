@@ -28,7 +28,7 @@
 ## Hình ảnh minh họa  
 📷 <br>
 <img src = "https://github.com/user-attachments/assets/5a0926e0-5fac-4be1-b6da-461367a30ab4" width ="200"/>
-<img src = "https://github.com/user-attachments/assets/a3c8c93a-26b7-4909-ad0f-af86f3e4069c" width ="200"/>
+<img src = "https://github.com/user-attachments/assets/2e9b7ab4-de0d-424c-b939-0d421d80c19d" width ="200"/>
 <img src = "https://github.com/user-attachments/assets/1f221558-4c21-4dee-8f33-96cd48be9db5" width ="200"/>
 
 <br>
